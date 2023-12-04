@@ -1,10 +1,5 @@
 ## Welcome to GaoAng Pages
 
-### code
-
-*   [SuperSlide模块](k618_mod/mod_1200.html) k618幻灯SuperSlide模块
-*   [swiper模块](k618_mod/swiper7.html) k618幻灯swiper模块
-*   [中少在线公用头部工具条](k618_mod/zs_tbar.html) 中少在线公用头部工具条
 
 ### 效果
 
